@@ -2,17 +2,27 @@
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
-### Compiles and hot-reloads for development
+### Install axios
 ```
-yarn serve
+npm install axios
+```
+
+### Install query-string
+```
+npm install query-string
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
 ```
 
 ### Customize configuration
